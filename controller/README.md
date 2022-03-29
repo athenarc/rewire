@@ -6,7 +6,7 @@ The centralized monitoring of the wireless mesh network is performed with the fo
 ./getOriginators.sh     # collect the best originators
 ```
 
-At the Controller node execute the following commands:
+To execute the additional Controller features run:
 
 ```
 python3 controller.py
