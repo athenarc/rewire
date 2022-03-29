@@ -16,8 +16,8 @@ In this repository we provide the main scripts of the REWIRE project including:
 ## Example
 The network deployments in the REWIRE project include:
 
-*The SDN Controller: Instructions about running the implemented SDN Controller can be found at Readme file [here](/controller/README.md) 
-*The Network Nodes: Instructions about running the Network Nodes can be found at Readme file [here](/nodes/README.md) 
+* The SDN Controller: Instructions about running the implemented SDN Controller can be found at Readme file [here](/controller/README.md) 
+* The Network Nodes: Instructions about running the Network Nodes can be found at Readme file [here](/nodes/README.md) 
 
 
 
