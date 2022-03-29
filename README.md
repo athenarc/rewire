@@ -18,5 +18,12 @@ In this repository we provide the main scripts of the REWIRE project including:
 ### Controller
 
 ### Network Nodes
+At each network node execute the following commands:
+
+```
+./listen.sh &
+./nodeinfo.sh &
+python3 bestorigin.py
+```
 
 
