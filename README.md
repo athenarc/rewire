@@ -9,32 +9,16 @@ REWIRE tackles scalability and reliability issues in Smart-Cities through an SDN
 
 In this repository we provide the main scripts of the REWIRE project including:
 
-*
-*
-*
+* The SDN-controller implementation
+* The Network Nodes scripts and protocol configuration
+* An easy-to-use bash script for NDN configuration
 
 ## Example
 The network deployments in the REWIRE project include:
 *The SDN Controller: Instructions about running the implemented SDN Controller can be found at Readme file [here](/controller/readme.md) 
 *The Network Nodes: Instructions about running the Network Nodes can be found at Readme file [here](/nodes/readme.md) 
 
-### Controller
-At the Controller node execute the following commands:
 
-```
-python3 controller.py
-```
 
-### Network Nodes
-At each network node execute the following commands:
 
-```
-./listen.sh &
-./nodeinfo.sh &
-python3 bestorigin.py
-```
-In addition, at the NDN Consumer node run the consumer.sh script in order to start sending Interest packets. 
-```
-
-```
 
