@@ -2,7 +2,8 @@ The provided bash script has been developed in order to facilitate the NDN proto
 
 We assume that the NDN daemon is running in a container named ndn.
 
-#Usage
+# Usage
+
 Commands for adding or deleting an NDN face:
 
 ```
