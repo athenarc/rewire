@@ -54,13 +54,6 @@ def configureNodes(consumer,producer,content):
             data = addfacecmd + "\n" +registercmd
             #time.sleep(0.2)
             sendData(ipPathList[i],8000,data)
-            #print("data")
-            #print(data)
-            #register content to the next face
-            #registercmd = "ndnregister %s tcp4://%s"%(content, ipPathList[i+1])
-            #sendData(ipPathList[i],8000,registercmd)
-            #print("registercmd: ")
-            #print(registercmd)
         ConsumerCS.add(content,10)
     else:
         print("Is cached")
