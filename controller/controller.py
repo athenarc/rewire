@@ -6,8 +6,6 @@ import subprocess
 import time
 import socket
 
-
-
 consumer="node9-13"
 producer="node9-21"
 counter=0
