@@ -11,9 +11,9 @@ REWIRE tackles scalability and reliability issues in Smart-Cities through an SDN
 
 In this repository we provide the main scripts of the REWIRE project including:
 
-* The SDN Controller implementation
-* The Network Nodes scripts and protocol configuration files
-* An easy-to-use bash script for NDN configuration
+* The SDN Controller implementation.
+* The Network Nodes scripts and protocol configuration files.
+* An easy-to-use bash script for NDN configuration.
 
 # Example
 The network deployments in the REWIRE project include:
