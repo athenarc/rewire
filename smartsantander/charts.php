@@ -15,10 +15,10 @@ if(isset($_GET["limit"])){
 
 
 
-$servername = "justhost.gr";
-$username = "rewire@justsoft.";
-$password = "TyPLnF7cq15lN5c";
-$dbname = "justsoft_gr_justsoft_smartsantander";
+$servername = "";
+$username = "";
+$password = "";
+$dbname = "";
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
 //error_log($servername.$username.$password.$dbname);
