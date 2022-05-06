@@ -6,7 +6,7 @@ testbeds as a single local area network.
 
 The following example describes a GRE Tunneling between two network nodes by using the GreTunneling script.
 
-linux commant:
+linux command:
 ./GreTunneling 195.251.209.205 155.98.38.124 rewire 10.2.0.250 10.1.0.0/24 2 10.2.0.1
 
 According to the above command, the following arguments have been introduced:
