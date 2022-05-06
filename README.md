@@ -1,11 +1,13 @@
 
-<!---
+
 <p align="center">
+<!---
   <img src="https://raw.githubusercontent.com/athenarc/rewire/rewire.png" width="400px"/>
+--->
   <h1 align="center">Experimenting with SDN-based Adaptable Non-IP Protocol Stacks in Smart-City Environments (REWIRE)</h1>
   <br />
 </p>
---->
+
 # Description
 
 REWIRE tackles scalability and reliability issues in Smart-Cities through an SDN-based management platform that mixes-and-matches, on-demand, multiple Non-IP protocol strategies with real (i) rapidly-detected network conditions, and (ii) IoT data communication patterns.
