@@ -19,4 +19,9 @@ API RESPONSE:
 </div>
 
 
-CONTENTS
+FOLDER CONTENTS:
+
+1. <strong>ARIMA</strong>: PHP implementation of ARIMA model based on https://github.com/Yusser95/ARIMA-PHP scripts
+<strong>2. NDN Producer script</strong>: The NDN Producer source code wich uses the REWIRE API to retrieve mesurements from SmartSantander and also the FreshnessPeriod from the "predicted_next_interval" response of the API.
+3. <strong>api</strong>: The REWIRE API source code.
+4. <strong>database_structure.sql</strong>: The MySQL database structure where stored the SmartSantander's API push notitifications.
