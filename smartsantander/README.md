@@ -6,7 +6,9 @@ The structure of REWIRE API is as follows:
 where {nodeid} is the id of the SmartSantander node and {phenomenon} is the phenomenon we are interested in.
 
 Example of REWIRE API URL: /smartsantander/api/22/relativeHumidity
+
 API RESPONSE:
+<div class="highlight highlight-source-json position-relative overflow-auto">
 <pre>
 {
   "uom":"percent",
@@ -14,7 +16,7 @@ API RESPONSE:
   "predicted_next_interval":80
 }
 </pre>
-
+</div>
 
 
 CONTENTS
