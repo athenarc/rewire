@@ -24,7 +24,9 @@ The network deployments in the REWIRE project include:
 * The SDN Controller: Instructions about running the implemented SDN Controller can be found [here](/controller/README.md) 
 * The Network Nodes: Instructions about running the Network Nodes can be found [here](/nodes/README.md) 
 
+# Open Data
 
+Experimental results of this work are available on [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6395256.svg)](https://doi.org/10.5281/zenodo.6395256)
 
 
 
