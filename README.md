@@ -26,7 +26,7 @@ The network deployments in the REWIRE project include:
 
 # Open Data
 
-Experimental results of this work are available on [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6395256.svg)](https://doi.org/10.5281/zenodo.6395256)
+Experimental results of this work are available in [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6395256.svg)](https://doi.org/10.5281/zenodo.6395256)
 
 
 
